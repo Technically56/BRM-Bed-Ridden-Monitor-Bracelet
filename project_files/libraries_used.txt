@@ -1,0 +1,4 @@
+core:https://github.com/earlephilhower/arduino-pico
+https://github.com/hanyazou/BMI160-Arduino
+https://github.com/luisllamasbinaburo/Arduino-MedianFilter
+https://github.com/oxullo/Arduino-MAX30100

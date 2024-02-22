@@ -1,0 +1,15 @@
+Board: Raspberry Pi Pico W
+
+Connections:
+GPIO4: MAX30100 Sensor Board SDA and BMI160 Sensor Board SDA(in paralel)
+GPIO5: MAX30100 Sensor Board SCL and BMI160 Sensor Board SCL(in paralel)
+GPIO26: OUT PIN OF THE LM35
+GPIO27: YELLOW Wire of the Grove GSR Sensor
+All GND and VCC ports on the sensors should be connected to ground and 3.3v terminal of the pico. Additionally, the SAO pin on the BMI160 Sensor Board
+must be connected to GND for the sensor to function.
+External power sources can be connected to the VSYS pin of the raspberry pi pico. The tp4056 board is used alongside an 18650 battery for the demo.
+
+TROUBLESHOOT:
+Any and all problems faced during boot can be resolved by a manual restart. The wifi and the password sections should be modified accordingly for the prototype to work.
+The core used for this project can be found here: https://github.com/earlephilhower/arduino-pico
+   
