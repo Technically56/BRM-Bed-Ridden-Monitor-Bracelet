@@ -10,6 +10,7 @@ The BRM is a wearable bracelet for bedridden patients who do not have the luxury
 - Gyroscope
 - GSR Monitoring
 - Temperature Monitoring
+- Uses a Raspberry Pi Pico W Microcontroller
 Note: See the pinout.txt for pinout information and libraries for the libraries used
 
   
