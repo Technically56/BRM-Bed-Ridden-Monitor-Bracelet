@@ -22,12 +22,13 @@ https://github.com/hanyazou/BMI160-Arduino
 
 https://github.com/luisllamasbinaburo/Arduino-MedianFilter
 
-https://github.com/oxullo/Arduino-MAX30100
+https://github.com/oxullo/Arduino-MAX30100!
 
 
   
 ## Images:
 ![bracelet](https://github.com/Technically56/BRM-Bed-Ridden-Monitor-Bracelet/assets/111244211/5dc0abfc-a51f-4f2c-8f9b-348afec31578)
+[circuit](https://github.com/Technically56/BRM-Bed-Ridden-Monitor-Bracelet/assets/111244211/b7811d15-61ee-4ccc-8fa4-7876e0b61de7)
 
 
 
