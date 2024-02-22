@@ -26,11 +26,8 @@ https://github.com/oxullo/Arduino-MAX30100
 
 
   
-## Ekran Görüntüleri
-
-![Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/1ek70gPBfQoh_heclwMBCNa44-vJl6AR0/view?usp=sharing)
-
-[Uygulama Ekran Görüntüsü](https://drive.google.com/file/d/1ek70gPBfQoh_heclwMBCNa44-vJl6AR0/view?usp=sharing)
+## Images:
+![bracelet](https://github.com/Technically56/BRM-Bed-Ridden-Monitor-Bracelet/assets/111244211/5dc0abfc-a51f-4f2c-8f9b-348afec31578)
 
 
 
